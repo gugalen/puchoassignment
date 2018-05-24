@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1093760904018",
+    "firebase_url": "https://pucho-assignment.firebaseio.com",
+    "project_id": "pucho-assignment",
+    "storage_bucket": "pucho-assignment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093760904018:android:8016d336ca3ae5a4",
+        "android_client_info": {
+          "package_name": "com.example.admin.puchoassignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1093760904018-2mcn35cctag51nf3kiacu9biiif5f468.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.admin.puchoassignment",
+            "certificate_hash": "4446436757051d463fbc2604adee67ecaf5f2b47"
+          }
+        },
+        {
+          "client_id": "1093760904018-5snr271d50imiqfbdesusrus2td4eoit.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZHaHyx3O0tUR4J_lE1xMX1vNYx-oVZAU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1093760904018-5snr271d50imiqfbdesusrus2td4eoit.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
